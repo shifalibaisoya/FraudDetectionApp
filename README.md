@@ -35,6 +35,7 @@ This project is a **Fraud Detection Web Application** that predicts whether a tr
    - **Transaction Date:** Enter a number between 1 and 31.
    - **Transaction Amount:** Enter a valid transaction amount.
 3. Click the **"Check Fraud"** button to see the result.
+4. Sample input for safe transaction : **Date**: 4, **Amount**: 300 and sample for fraudulent transaction : **Date**: 27, **Amount**: 40000  
 
 ---
 
